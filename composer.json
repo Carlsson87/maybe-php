@@ -5,5 +5,10 @@
         "phpunit/phpunit": "^7.1"
     },
     "license": "MIT",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Carlsson\\": "src/"
+        }
+    }
 }
