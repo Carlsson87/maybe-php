@@ -1,0 +1,9 @@
+{
+    "name": "carlsson/maybe",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^7.1"
+    },
+    "license": "MIT",
+    "require": {}
+}
